@@ -15,3 +15,7 @@
 - Which features and services are most profitable?
 
 Here is the [Link](https://colab.research.google.com/drive/1Z-OiysUP2tvJ4tTMesPnSkppGY--z2Pc?usp=sharing) :+1
+
+## 2. Twitter Sentiment Analysis
+
+## 3. Parakh (IQ Test)
